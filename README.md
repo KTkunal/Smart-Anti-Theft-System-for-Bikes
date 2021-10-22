@@ -1,0 +1,2 @@
+# Smart-Anti-Theft-System-for-Bikes
+This innovation of a vehicle security system has the ability to turn off the vehicle engine and send real-time alerts to the vehicle owner. Thus, preventing the theft from taking the motorcycle. This security system also features the ability to locate the motorcycle to help ease stolen motorcycles search and recovery. This is possible through the use of Global System for Mobile communication (GSM), Global Positioning System (GPS) Technology and sensors.
